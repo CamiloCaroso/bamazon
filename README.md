@@ -35,6 +35,7 @@ It's going to show all the products below 5 units
 It's going to let you add units to a product
 
 ![Image](images/managerATIUpdate.JPG)
+
 ![Image](images/managerATIResult.JPG)
 
 **Add New Product**
@@ -42,4 +43,4 @@ It's going to let you add a new product to the database
 
 ![Image](images/managerAPUpdate.JPG)
 
-![Image](images/managerATResult.JPG)
+![Image](images/managerAPResult.JPG)
