@@ -2,4 +2,4 @@
 
 
 First you can select between customer and manager
-![Image]()
+![Image](images/customer.jpg)
