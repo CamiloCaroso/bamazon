@@ -29,4 +29,9 @@ It's going to show you all the products in the database
 
 **View Low Inventory**
 It's going to show all the products below 5 units
-![Image](images/managerLI.JPG)
+![Image](images/managerLIResult.JPG)
+
+**Add to Inventory**
+It's going to let you add units to a product
+![Image](images/managerATIUpdate.JPG)
+![Image](images/managerATIResult.JPG)
