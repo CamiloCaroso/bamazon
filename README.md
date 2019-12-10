@@ -1,7 +1,7 @@
 # bamazon
 
 
-First select customer
+**First select customer**
 
 ![Image](images/customer.JPG)
 
@@ -12,3 +12,21 @@ Select the id of the product you want to buy and how much units
 and then this is the result 
 
 ![Image](images/customerResult.JPG)
+
+
+
+**Now manager**
+
+![Image](images/manager.JPG)
+
+You have this options
+
+![Image](images/managerOptions.JPG)
+
+**View Products for Sale**
+It's going to show you all the products in the database
+![Image](images/managerVPResult.JPG)
+
+**View Low Inventory**
+It's going to show all the products below 5 units
+![Image](images/managerLI.JPG)
